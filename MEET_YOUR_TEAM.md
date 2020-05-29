@@ -48,3 +48,21 @@
   - "What is your favorite way to treat yourself?"
     - Lets you congratulate them in a personal way
 
+## What are you optimizing for?
+- Delivery? Improving users' lives? Giving team autonomy?
+- Mad Lib to fill out:
+```
+I'm a ___________ leader who values ___________ and ____________.
+You'll see this when I ________________.
+I support my team by ______________________.
+I thrive in a ________________ environment.
+I commit to being ________________.
+```
+- No approach is inherently good or bad
+- When a leader shares their philosophy, others should be able to easily see how it manifests.
+
+## Coaching Questions
+- Which BICEPS need comes up most for you?
+- What are your work styles and preferences?
+- What are your answers to first 1:1 questions?
+- What do you wish you could optimize for?
